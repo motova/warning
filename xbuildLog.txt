@@ -1,0 +1,468 @@
+CallerThreadContext.cs(31,25): warning CS0414: The private field `Amib.Threading.Internal.CallerThreadContext.HttpContextSlotName' is assigned but its value is never used
+SmartThreadPool.ThreadEntry.cs(17,39): warning CS0414: The private field `Amib.Threading.SmartThreadPool.ThreadEntry._creationTime' is assigned but its value is never used
+SmartThreadPool.ThreadEntry.cs(24,30): warning CS0414: The private field `Amib.Threading.SmartThreadPool.ThreadEntry._lastAliveTime' is assigned but its value is never used
+MetricsCollector.cs(184,17): warning CS0219: The variable `newBucket' is assigned but its value is never used
+TerrainData.cs(538,19): warning CS0219: The variable `hmFormatCode' is assigned but its value is never used
+Util.cs(2432,18): warning CS0219: The variable `numQueued' is assigned but its value is never used
+Util.cs(2611,42): warning CS0612: `System.Threading.Thread.Resume()' is obsolete
+Util.cs(2623,30): warning CS0612: `System.Threading.Thread.Suspend()' is obsolete
+Util.cs(2641,34): warning CS0612: `System.Threading.Thread.Resume()' is obsolete
+LandData.cs(52,38): warning CS0414: The private field `OpenSim.Framework.LandData.serializer' is assigned but its value is never used
+Util.cs(167,30): warning CS0414: The private field `OpenSim.Framework.Util.m_threadPoolWatchdog' is assigned but its value is never used
+Stats/Stat.cs(248,20): warning CS0168: The variable `lastChangeOverTime' is declared but never used
+Stats/Stat.cs(248,40): warning CS0168: The variable `averageChangeOverTime' is declared but never used
+SimExtraStatsCollector.cs(75,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.spareTime' is assigned but its value is never used
+SimExtraStatsCollector.cs(76,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.sleepTime' is assigned but its value is never used
+SimExtraStatsCollector.cs(77,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.physicsStep' is assigned but its value is never used
+ConvexBuilder.cs(227,17): warning CS0219: The variable `vcount' is assigned but its value is never used
+ConvexDecomposition.cs(175,21): warning CS0219: The variable `vcount' is assigned but its value is never used
+ConvexDecomposition.cs(179,21): warning CS0219: The variable `tcount' is assigned but its value is never used
+ConvexDecomposition.cs(189,21): warning CS0219: The variable `vcount' is assigned but its value is never used
+ConvexDecomposition.cs(191,21): warning CS0219: The variable `tcount' is assigned but its value is never used
+HullUtils.cs(674,23): warning CS0219: The variable `vertscoplanar' is assigned but its value is never used
+HullUtils.cs(675,23): warning CS0219: The variable `edgesplit' is assigned but its value is never used
+HullUtils.cs(1253,22): warning CS0219: The variable `ti' is assigned but its value is never used
+SplitPlane.cs(112,19): warning CS0219: The variable `laxis' is assigned but its value is never used
+PollServiceHttpRequest.cs(123,30): warning CS0168: The variable `e' is declared but never used
+PollServiceRequestManager.cs(56,24): warning CS0414: The private field `OpenSim.Framework.Servers.HttpServer.PollServiceRequestManager.m_retrysThread' is assigned but its value is never used
+BaseOpenSimServer.cs(171,22): warning CS0219: The variable `timeTaken' is assigned but its value is never used
+IGridService.cs(516,40): warning CS0168: The variable `e' is declared but never used
+ServerUtils.cs(96,28): warning CS0219: The variable `commandmanager' is assigned but its value is never used
+Scenes/KeyframeMotion.cs(740,22): warning CS0219: The variable `lastStep' is assigned but its value is never used
+Scenes/Scene.cs(3931,18): warning CS0219: The variable `viahome' is assigned but its value is never used
+Scenes/SceneManager.cs(199,24): warning CS0219: The variable `Result' is assigned but its value is never used
+Scenes/SceneObjectGroup.cs(158,58): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+Scenes/SceneObjectGroup.cs(4192,31): warning CS0219: The variable `parts' is assigned but its value is never used
+Scenes/SceneObjectPartInventory.cs(899,18): warning CS0219: The variable `single' is assigned but its value is never used
+Scenes/ScenePresence.cs(2485,31): warning CS0219: The variable `dirVectors' is assigned but its value is never used
+Scenes/ScenePresence.cs(2585,30): warning CS0219: The variable `controlland' is assigned but its value is never used
+Scenes/ScenePresence.cs(2923,19): warning CS0219: The variable `targetScene' is assigned but its value is never used
+Scenes/ScenePresence.cs(4307,25): warning CS0219: The variable `eventQueue' is assigned but its value is never used
+Scenes/ScenePresence.cs(6286,21): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+Scenes/TerrainCompressor.cs(165,21): warning CS0219: The variable `ftemp' is assigned but its value is never used
+Scenes/CollisionSounds.cs(47,38): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.CollisionSounds.m_log' is assigned but its value is never used
+Scenes/Scene.cs(412,21): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.Scene.m_update_land' is assigned but its value is never used
+Scenes/Scene.cs(452,34): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.Scene.m_updateWaitEvent' is assigned but its value is never used
+Scenes/ScenePresence.cs(80,40): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.LogHeader' is assigned but its value is never used
+Scenes/ScenePresence.cs(377,24): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.m_collisionEventLock' is assigned but its value is never used
+Scenes/ScenePresence.cs(960,22): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.m_leftButtonDown' is assigned but its value is never used
+MySQLGroupsData.cs(430,18): warning CS0219: The variable `now' is assigned but its value is never used
+MySQLSimulationData.cs(1714,22): warning CS0472: The result of comparing value type `OpenMetaverse.Vector3' with null is always `true'
+MySQLUserProfilesData.cs(179,19): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+MySQLUserProfilesData.cs(180,17): warning CS0162: Unreachable code detected
+MySQLUserProfilesData.cs(527,22): warning CS0219: The variable `data' is assigned but its value is never used
+MySQLUserProfilesData.cs(907,22): warning CS0219: The variable `data' is assigned but its value is never used
+PGSQLUserProfilesData.cs(155,20): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+PGSQLUserProfilesData.cs(156,17): warning CS0162: Unreachable code detected
+PGSQLUserProfilesData.cs(502,22): warning CS0219: The variable `data' is assigned but its value is never used
+PGSQLUserProfilesData.cs(884,22): warning CS0219: The variable `data' is assigned but its value is never used
+PGSQLGenericTableHandler.cs(43,38): warning CS0414: The private field `OpenSim.Data.PGSQL.PGSQLGenericTableHandler<T>.m_log' is assigned but its value is never used
+PGSQLUserAccountData.cs(43,38): warning CS0414: The private field `OpenSim.Data.PGSQL.PGSQLUserAccountData.m_log' is assigned but its value is never used
+SQLiteUserProfilesData.cs(168,19): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+SQLiteUserProfilesData.cs(169,17): warning CS0162: Unreachable code detected
+SQLiteUserProfilesData.cs(489,22): warning CS0219: The variable `data' is assigned but its value is never used
+SQLiteUserProfilesData.cs(787,22): warning CS0219: The variable `data' is assigned but its value is never used
+LLClientView.cs(2880,17): warning CS0219: The variable `WearableOut' is assigned but its value is never used
+LLClientView.cs(3398,25): warning CS0219: The variable `NewGroupDataMap' is assigned but its value is never used
+LLClientView.cs(3992,56): warning CS0219: The variable `objectUpdates' is assigned but its value is never used
+LLClientView.cs(3993,56): warning CS0219: The variable `compressedUpdates' is assigned but its value is never used
+LLClientView.cs(3995,56): warning CS0219: The variable `terseAgentUpdates' is assigned but its value is never used
+LLClientView.cs(8455,21): warning CS0219: The variable `wearableout' is assigned but its value is never used
+LLClientView.cs(9559,13): warning CS0162: Unreachable code detected
+LLUDPServer.cs(905,18): warning CS0219: The variable `packetQueued' is assigned but its value is never used
+LLClientView.cs(102,32): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnStartAnim' is never used
+LLClientView.cs(103,31): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnStopAnim' is never used
+LLClientView.cs(134,35): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSinglePosition' is never used
+LLClientView.cs(136,47): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSingleRotation' is never used
+LLClientView.cs(137,55): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSingleRotationPosition' is never used
+LLClientView.cs(138,46): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimGroupMouseRotation' is never used
+LLClientView.cs(139,35): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimScale' is never used
+LLClientView.cs(337,21): warning CS0169: The private field `OpenSim.Region.ClientStack.LindenUDP.LLClientView.m_cachedTextureSerial' is never used
+LLClientView.cs(346,22): warning CS0414: The private field `OpenSim.Region.ClientStack.LindenUDP.LLClientView.m_VelocityInterpolate' is assigned but its value is never used
+TokenBucket.cs(333,38): warning CS0414: The private field `OpenSim.Region.ClientStack.LindenUDP.AdaptiveTokenBucket.m_log' is assigned but its value is never used
+BasicPhysicsScene.cs(166,19): warning CS0219: The variable `fps' is assigned but its value is never used
+ZeroMesher.cs(56,38): warning CS0414: The private field `OpenSim.Region.PhysicsModule.Meshing.ZeroMesher.m_log' is assigned but its value is never used
+ODEModule.cs(15,38): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ODE.OdeModule.m_log' is assigned but its value is never used
+OdeScene.cs(259,24): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ODE.OdeScene.fluidRandomizer' is assigned but its value is never used
+ODEMeshWorker.cs(278,29): warning CS0219: The variable `asr' is assigned but its value is never used
+ODEMeshWorker.cs(440,29): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+ODEMeshWorker.cs(863,25): warning CS0219: The variable `OBB' is assigned but its value is never used
+ODEScene.cs(2811,20): warning CS0219: The variable `geom' is assigned but its value is never used
+ODEDynamics.cs(70,28): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODEDynamics.m_RollreferenceFrame' is assigned but its value is never used
+ODEDynamics.cs(82,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODEDynamics.m_BlockingEndPoint' is assigned but its value is never used
+ODEPrim.cs(79,28): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastorientation' is assigned but its value is never used
+ODEPrim.cs(84,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastVelocity' is assigned but its value is never used
+ODEPrim.cs(85,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastposition' is assigned but its value is never used
+ODEPrim.cs(127,22): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_collidesWater' is assigned but its value is never used
+ODEPrim.cs(144,23): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_assetID' is assigned but its value is never used
+ODEPrim.cs(179,22): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_hasOBB' is assigned but its value is never used
+ODESitAvatar.cs(46,42): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODESitAvatar.m_raymanager' is assigned but its value is never used
+ODESitAvatar.cs(54,32): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODESitAvatar.SitAjust' is assigned but its value is never used
+Mesh.cs(119,17): warning CS0472: The result of comparing value type `System.IntPtr' with null is always `false'
+Mesh.cs(119,42): warning CS0472: The result of comparing value type `System.IntPtr' with null is always `false'
+Mesh.cs(120,17): warning CS0162: Unreachable code detected
+Meshmerizer.cs(1360,41): warning CS0219: The variable `bformatter' is assigned but its value is never used
+PrimMesher.cs(1296,19): warning CS0219: The variable `length' is assigned but its value is never used
+SculptMesh.cs(128,19): warning CS0219: The variable `widthUnit' is assigned but its value is never used
+SculptMesh.cs(129,19): warning CS0219: The variable `heightUnit' is assigned but its value is never used
+Meshmerizer.cs(76,23): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubODEMeshing.ubMeshmerizer.minSizeForComplexMesh' is assigned but its value is never used
+Inventory/XInventoryServicesConnector.cs(595,41): warning CS0219: The variable `inventory' is assigned but its value is never used
+Neighbour/NeighbourServicesConnector.cs(154,30): warning CS0168: The variable `e' is declared but never used
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Framework.Communications' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Physics.Manager' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+Hypergrid/GroupsServiceHGConnectorModule.cs(60,33): warning CS0414: The private field `OpenSim.Groups.GroupsServiceHGConnectorModule.m_ForeignImporter' is assigned but its value is never used
+GetDisplayNames/GetDisplayNamesServerConnector.cs(65,20): warning CS0219: The variable `rurl' is assigned but its value is never used
+GetMesh/GetMeshServerConnector.cs(65,20): warning CS0219: The variable `rurl' is assigned but its value is never used
+FetchInventory/FetchInvDescHandler.cs(53,24): warning CS0414: The private field `OpenSim.Capabilities.Handlers.FetchInvDescHandler.m_Scene' is assigned but its value is never used
+UploadBakedTexture/UploadBakedTextureHandler.cs(143,22): warning CS0414: The private field `OpenSim.Capabilities.Handlers.BakedTextureUploader.AgentId' is assigned but its value is never used
+Avatar/Attachments/AttachmentsModule.cs(370,26): warning CS0168: The variable `asset' is declared but never used
+Avatar/UserProfiles/UserProfileModule.cs(899,18): warning CS0219: The variable `foreign' is assigned but its value is never used
+Avatar/UserProfiles/UserProfileModule.cs(923,18): warning CS0219: The variable `foreign' is assigned but its value is never used
+Scripting/HttpRequest/ScriptsHttpRequests.cs(677,30): warning CS0168: The variable `e' is declared but never used
+ServiceConnectorsOut/Grid/LocalGridServiceConnector.cs(300,39): warning CS0219: The variable `caps' is assigned but its value is never used
+World/Archiver/ArchiveReadRequest.cs(729,21): warning CS0219: The variable `parcelDisp' is assigned but its value is never used
+World/Estate/XEstateRequestHandler.cs(115,18): warning CS0219: The variable `PreyID' is assigned but its value is never used
+World/Land/LandManagementModule.cs(835,13): warning CS0162: Unreachable code detected
+World/Land/LandObject.cs(1365,17): warning CS0219: The variable `i' is assigned but its value is never used
+World/Terrain/TerrainModule.cs(1104,39): warning CS0219: The variable `xPieces' is assigned but its value is never used
+World/Terrain/TerrainModule.cs(1105,39): warning CS0219: The variable `yPieces' is assigned but its value is never used
+World/Terrain/TerrainModule.cs(1181,23): warning CS0219: The variable `xPieces' is assigned but its value is never used
+World/Terrain/TerrainModule.cs(1182,23): warning CS0219: The variable `yPieces' is assigned but its value is never used
+World/Terrain/FileLoaders/Terragen.cs(68,17): warning CS0219: The variable `fileYPoints' is assigned but its value is never used
+World/WorldMap/WorldMapModule.cs(874,18): warning CS0219: The variable `requestID' is assigned but its value is never used
+Avatar/BakedTextures/XBakesModule.cs(53,30): warning CS0414: The private field `OpenSim.Region.CoreModules.Avatar.BakedTextures.XBakesModule.enc' is assigned but its value is never used
+Framework/ServiceThrottle/ServiceThrottleModule.cs(47,38): warning CS0414: The private field `OpenSim.Region.CoreModules.Framework.ServiceThrottleModule.m_log' is assigned but its value is never used
+World/Estate/XEstateModule.cs(50,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Estate.XEstateModule.m_log' is assigned but its value is never used
+World/Objects/BuySell/BuySellModule.cs(48,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Objects.BuySell.BuySellModule.m_log' is assigned but its value is never used
+World/Warp3DMap/Warp3DImageModule.cs(83,24): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Warp3DMap.Warp3DImageModule.lastImage' is assigned but its value is never used
+World/Warp3DMap/Warp3DImageModule.cs(84,26): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Warp3DMap.Warp3DImageModule.lastImageTime' is assigned but its value is never used
+World/WorldMap/MapSearchModule.cs(45,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.WorldMap.MapSearchModule.m_log' is assigned but its value is never used
+World/WorldMap/WorldMapModule.cs(80,36): warning CS0414: The private field `OpenSim.Region.CoreModules.World.WorldMap.WorldMapModule.cachedMapBlocks' is assigned but its value is never used
+BSAPIXNA.cs(588,24): warning CS0219: The variable `frame2v' is assigned but its value is never used
+BSAPIXNA.cs(1184,24): warning CS0219: The variable `world' is assigned but its value is never used
+BSAPIXNA.cs(1194,35): warning CS0219: The variable `constructionInfo' is assigned but its value is never used
+BSAPIXNA.cs(1383,42): warning CS0219: The variable `ccci' is assigned but its value is never used
+BSAPIXNA.cs(1612,31): warning CS0219: The variable `world' is assigned but its value is never used
+BSAPIXNA.cs(1633,31): warning CS0219: The variable `world' is assigned but its value is never used
+BSAPIXNA.cs(1882,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+BSAPIXNA.cs(1932,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+BSAPIXNA.cs(1959,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+BSAPIXNA.cs(2410,31): warning CS0219: The variable `world' is assigned but its value is never used
+BSAPIXNA.cs(2454,40): warning CS0219: The variable `hitLocation' is assigned but its value is never used
+BSScene.cs(1015,19): warning CS0219: The variable `pathTaperX' is assigned but its value is never used
+BSScene.cs(1016,19): warning CS0219: The variable `pathTaperY' is assigned but its value is never used
+BSScene.cs(1292,20): warning CS0219: The variable `xval' is assigned but its value is never used
+BSCharacter.cs(43,18): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._grabbed' is assigned but its value is never used
+BSCharacter.cs(60,19): warning CS0649: Field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._footOffset' is never assigned to, and will always have its default value `0'
+BSCharacter.cs(65,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._PIDTarget' is assigned but its value is never used
+BSCharacter.cs(66,19): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._PIDTau' is assigned but its value is never used
+BSConstraintCollection.cs(44,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSConstraintCollection.m_world' is assigned but its value is never used
+BSDynamics.cs(77,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_linearMotorDirectionLASTSET' is assigned but its value is never used
+BSDynamics.cs(81,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastLinearVelocityVector' is assigned but its value is never used
+BSDynamics.cs(90,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_angularMotorVelocity' is assigned but its value is never used
+BSDynamics.cs(94,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastAngularVelocity' is assigned but its value is never used
+BSDynamics.cs(95,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastVertAttractor' is assigned but its value is never used
+BSDynamics.cs(98,26): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_angularDeflectionMotor' is assigned but its value is never used
+BSDynamics.cs(110,26): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_hoverMotor' is assigned but its value is never used
+BSPrim.cs(50,18): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSPrim._grabbed' is assigned but its value is never used
+BSScene.cs(190,42): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSScene._postStepOperations' is assigned but its value is never used
+BSShapes.cs(1393,27): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSShapeAvatar.avatarVertices' is assigned but its value is never used
+BSShapes.cs(1433,19): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSShapeAvatar.avatarIndices' is assigned but its value is never used
+FSAssetService.cs(223,32): warning CS0219: The variable `avg' is assigned but its value is never used
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Framework.Communications' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Physics.Manager' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Interfaces' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Scenes' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+BunchOfCaps/BunchOfCaps.cs(203,29): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+BunchOfCaps/BunchOfCaps.cs(518,25): warning CS0162: Unreachable code detected
+BunchOfCaps/BunchOfCaps.cs(1013,30): warning CS0219: The variable `hasmesh' is assigned but its value is never used
+BunchOfCaps/MeshCost.cs(367,17): warning CS0219: The variable `skin_size' is assigned but its value is never used
+GetMeshModule.cs(60,31): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_AssetService' is assigned but its value is never used
+GetMeshModule.cs(65,24): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_RedirectURL' is assigned but its value is never used
+GetMeshModule.cs(66,24): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_RedirectURL2' is assigned but its value is never used
+GetMeshModule.cs(221,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.PollServiceMeshEventArgs.requests' is assigned but its value is never used
+GetMeshModule.cs(393,27): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.CapThrottleDistributon' is assigned but its value is never used
+GetMeshModule.cs(394,36): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.m_scene' is assigned but its value is never used
+GetMeshModule.cs(396,35): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.User' is assigned but its value is never used
+GetTextureModule.cs(217,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetTextureModule.PollServiceTextureEventArgs.requests' is assigned but its value is never used
+UploadBakedTextureModule.cs(57,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.UploadBakedTextureModule.m_log' is assigned but its value is never used
+UploadBakedTextureModule.cs(68,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.UploadBakedTextureModule.m_BakedTextureModule' is assigned but its value is never used
+BunchOfCaps/BunchOfCaps.cs(108,40): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.BunchOfCaps.m_animSetTaskUpdatePath' is assigned but its value is never used
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Interfaces' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Scenes' not resolved
+				Warning: {CandidateAssemblyFiles} not supported currently
+Avatar/Concierge/ConciergeModule.cs(56,27): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.DEBUG_CHANNEL' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.DEBUG_CHANNEL'. Use the new keyword if hiding was intended
+				/home/quintino/source/opensim/bin//OpenSim.Region.CoreModules.dll (Location of the symbol related to previous warning)
+Avatar/Concierge/ConciergeModule.cs(58,30): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_scenes' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_scenes'. Use the new keyword if hiding was intended
+				/home/quintino/source/opensim/bin//OpenSim.Region.CoreModules.dll (Location of the symbol related to previous warning)
+Avatar/Concierge/ConciergeModule.cs(63,25): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_config' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_config'. Use the new keyword if hiding was intended
+				/home/quintino/source/opensim/bin//OpenSim.Region.CoreModules.dll (Location of the symbol related to previous warning)
+Avatar/Concierge/ConciergeModule.cs(75,25): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_syncy' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_syncy'. Use the new keyword if hiding was intended
+				/home/quintino/source/opensim/bin//OpenSim.Region.CoreModules.dll (Location of the symbol related to previous warning)
+Avatar/Concierge/ConciergeModule.cs(77,23): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_enabled' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_enabled'. Use the new keyword if hiding was intended
+				/home/quintino/source/opensim/bin//OpenSim.Region.CoreModules.dll (Location of the symbol related to previous warning)
+Avatar/Voice/FreeSwitchVoice/FreeSwitchVoiceModule.cs(556,26): warning CS0219: The variable `encoding' is assigned but its value is never used
+PrimLimitsModule/PrimLimitsModule.cs(171,17): warning CS0219: The variable `simulatorCapacity' is assigned but its value is never used
+Scripting/JsonStore/JsonStoreScriptModule.cs(260,18): warning CS0219: The variable `uuid' is assigned but its value is never used
+Scripting/Minimodule/MRMModule.cs(200,59): warning CS0612: `System.Security.SecurityManager.PolicyHierarchy()' is obsolete
+ViewerSupport/SpecialUIModule.cs(149,36): warning CS0219: The variable `floater' is assigned but its value is never used
+ViewerSupport/DynamicFloaterModule.cs(54,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.DynamicFloaterModule.m_log' is assigned but its value is never used
+ViewerSupport/DynamicMenuModule.cs(55,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.DynamicMenuModule.m_log' is assigned but its value is never used
+ViewerSupport/DynamicMenuModule.cs(272,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.MenuActionHandler.m_log' is assigned but its value is never used
+ViewerSupport/DynamicMenuModule.cs(276,23): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.MenuActionHandler.m_scene' is assigned but its value is never used
+HGSuitcaseInventoryService.cs(402,38): warning CS0109: The member `OpenSim.Services.HypergridService.HGSuitcaseInventoryService.GetItem(OpenSim.Framework.InventoryItemBase)' does not hide an inherited member. The new keyword is not required
+RemoteAdminPlugin.cs(1901,30): warning CS0168: The variable `e' is declared but never used
+lsl.lexer.cs(19723,7): warning CS0162: Unreachable code detected
+FetchInventory/Tests/FetchInventory2HandlerTests.cs(51,22): warning CS0414: The private field `OpenSim.Capabilities.Handlers.FetchInventory.Tests.FetchInventory2HandlerTests.m_rootFolderID' is assigned but its value is never used
+UtilTest.cs(282,20): warning CS0219: The variable `hexBytes16' is assigned but its value is never used
+Scenes/Tests/SceneObjectSerializationTests.cs(61,19): warning CS0219: The variable `scene' is assigned but its value is never used
+Scenes/Tests/UuidGathererTests.cs(93,18): warning CS0219: The variable `ownerId' is assigned but its value is never used
+BulletSimTestsUtil.cs(82,17): warning CS0219: The variable `regionExtent' is assigned but its value is never used
+HullCreation.cs(178,39): warning CS0219: The variable `nShape' is assigned but its value is never used
+HullCreation.cs(194,41): warning CS0219: The variable `cShape' is assigned but its value is never used
+HullCreation.cs(52,13): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.Tests.HullCreation.ObjectInitPosition' is assigned but its value is never used
+ODETestClass.cs(61,21): warning CS0219: The variable `regionExtent' is assigned but its value is never used
+LSL_Api.cs(3821,18): warning CS0219: The variable `friendTransactionID' is assigned but its value is never used
+LSL_Api.cs(10273,20): warning CS0219: The variable `data1' is assigned but its value is never used
+LSL_Api.cs(10274,20): warning CS0219: The variable `data2' is assigned but its value is never used
+LSL_Api.cs(13993,37): warning CS0219: The variable `data' is assigned but its value is never used
+ScriptInstance.cs(776,25): warning CS0219: The variable `data' is assigned but its value is never used
+Shared/Tests/LSL_ApiHttpTests.cs(156,37): warning CS0168: The variable `e' is declared but never used
+Shared/Tests/LSL_ApiUserTests.cs(97,27): warning CS0219: The variable `sp' is assigned but its value is never used
+XEngine/Tests/XEngineCrossingTests.cs(189,35): warning CS0219: The variable `scriptItemSceneB' is assigned but its value is never used
+	CallerThreadContext.cs(31,25): warning CS0414: The private field `Amib.Threading.Internal.CallerThreadContext.HttpContextSlotName' is assigned but its value is never used
+	SmartThreadPool.ThreadEntry.cs(17,39): warning CS0414: The private field `Amib.Threading.SmartThreadPool.ThreadEntry._creationTime' is assigned but its value is never used
+	SmartThreadPool.ThreadEntry.cs(24,30): warning CS0414: The private field `Amib.Threading.SmartThreadPool.ThreadEntry._lastAliveTime' is assigned but its value is never used
+	MetricsCollector.cs(184,17): warning CS0219: The variable `newBucket' is assigned but its value is never used
+	TerrainData.cs(538,19): warning CS0219: The variable `hmFormatCode' is assigned but its value is never used
+	Util.cs(2432,18): warning CS0219: The variable `numQueued' is assigned but its value is never used
+	Util.cs(2611,42): warning CS0612: `System.Threading.Thread.Resume()' is obsolete
+	Util.cs(2623,30): warning CS0612: `System.Threading.Thread.Suspend()' is obsolete
+	Util.cs(2641,34): warning CS0612: `System.Threading.Thread.Resume()' is obsolete
+	LandData.cs(52,38): warning CS0414: The private field `OpenSim.Framework.LandData.serializer' is assigned but its value is never used
+	Util.cs(167,30): warning CS0414: The private field `OpenSim.Framework.Util.m_threadPoolWatchdog' is assigned but its value is never used
+	Stats/Stat.cs(248,20): warning CS0168: The variable `lastChangeOverTime' is declared but never used
+	Stats/Stat.cs(248,40): warning CS0168: The variable `averageChangeOverTime' is declared but never used
+	SimExtraStatsCollector.cs(75,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.spareTime' is assigned but its value is never used
+	SimExtraStatsCollector.cs(76,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.sleepTime' is assigned but its value is never used
+	SimExtraStatsCollector.cs(77,32): warning CS0414: The private field `OpenSim.Framework.Monitoring.SimExtraStatsCollector.physicsStep' is assigned but its value is never used
+	ConvexBuilder.cs(227,17): warning CS0219: The variable `vcount' is assigned but its value is never used
+	ConvexDecomposition.cs(175,21): warning CS0219: The variable `vcount' is assigned but its value is never used
+	ConvexDecomposition.cs(179,21): warning CS0219: The variable `tcount' is assigned but its value is never used
+	ConvexDecomposition.cs(189,21): warning CS0219: The variable `vcount' is assigned but its value is never used
+	ConvexDecomposition.cs(191,21): warning CS0219: The variable `tcount' is assigned but its value is never used
+	HullUtils.cs(674,23): warning CS0219: The variable `vertscoplanar' is assigned but its value is never used
+	HullUtils.cs(675,23): warning CS0219: The variable `edgesplit' is assigned but its value is never used
+	HullUtils.cs(1253,22): warning CS0219: The variable `ti' is assigned but its value is never used
+	SplitPlane.cs(112,19): warning CS0219: The variable `laxis' is assigned but its value is never used
+	PollServiceHttpRequest.cs(123,30): warning CS0168: The variable `e' is declared but never used
+	PollServiceRequestManager.cs(56,24): warning CS0414: The private field `OpenSim.Framework.Servers.HttpServer.PollServiceRequestManager.m_retrysThread' is assigned but its value is never used
+	BaseOpenSimServer.cs(171,22): warning CS0219: The variable `timeTaken' is assigned but its value is never used
+	IGridService.cs(516,40): warning CS0168: The variable `e' is declared but never used
+	ServerUtils.cs(96,28): warning CS0219: The variable `commandmanager' is assigned but its value is never used
+	Scenes/KeyframeMotion.cs(740,22): warning CS0219: The variable `lastStep' is assigned but its value is never used
+	Scenes/Scene.cs(3931,18): warning CS0219: The variable `viahome' is assigned but its value is never used
+	Scenes/SceneManager.cs(199,24): warning CS0219: The variable `Result' is assigned but its value is never used
+	Scenes/SceneObjectGroup.cs(158,58): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+	Scenes/SceneObjectGroup.cs(4192,31): warning CS0219: The variable `parts' is assigned but its value is never used
+	Scenes/SceneObjectPartInventory.cs(899,18): warning CS0219: The variable `single' is assigned but its value is never used
+	Scenes/ScenePresence.cs(2485,31): warning CS0219: The variable `dirVectors' is assigned but its value is never used
+	Scenes/ScenePresence.cs(2585,30): warning CS0219: The variable `controlland' is assigned but its value is never used
+	Scenes/ScenePresence.cs(2923,19): warning CS0219: The variable `targetScene' is assigned but its value is never used
+	Scenes/ScenePresence.cs(4307,25): warning CS0219: The variable `eventQueue' is assigned but its value is never used
+	Scenes/ScenePresence.cs(6286,21): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+	Scenes/TerrainCompressor.cs(165,21): warning CS0219: The variable `ftemp' is assigned but its value is never used
+	Scenes/CollisionSounds.cs(47,38): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.CollisionSounds.m_log' is assigned but its value is never used
+	Scenes/Scene.cs(412,21): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.Scene.m_update_land' is assigned but its value is never used
+	Scenes/Scene.cs(452,34): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.Scene.m_updateWaitEvent' is assigned but its value is never used
+	Scenes/ScenePresence.cs(80,40): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.LogHeader' is assigned but its value is never used
+	Scenes/ScenePresence.cs(377,24): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.m_collisionEventLock' is assigned but its value is never used
+	Scenes/ScenePresence.cs(960,22): warning CS0414: The private field `OpenSim.Region.Framework.Scenes.ScenePresence.m_leftButtonDown' is assigned but its value is never used
+	MySQLGroupsData.cs(430,18): warning CS0219: The variable `now' is assigned but its value is never used
+	MySQLSimulationData.cs(1714,22): warning CS0472: The result of comparing value type `OpenMetaverse.Vector3' with null is always `true'
+	MySQLUserProfilesData.cs(179,19): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+	MySQLUserProfilesData.cs(180,17): warning CS0162: Unreachable code detected
+	MySQLUserProfilesData.cs(527,22): warning CS0219: The variable `data' is assigned but its value is never used
+	MySQLUserProfilesData.cs(907,22): warning CS0219: The variable `data' is assigned but its value is never used
+	PGSQLUserProfilesData.cs(155,20): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+	PGSQLUserProfilesData.cs(156,17): warning CS0162: Unreachable code detected
+	PGSQLUserProfilesData.cs(502,22): warning CS0219: The variable `data' is assigned but its value is never used
+	PGSQLUserProfilesData.cs(884,22): warning CS0219: The variable `data' is assigned but its value is never used
+	PGSQLGenericTableHandler.cs(43,38): warning CS0414: The private field `OpenSim.Data.PGSQL.PGSQLGenericTableHandler<T>.m_log' is assigned but its value is never used
+	PGSQLUserAccountData.cs(43,38): warning CS0414: The private field `OpenSim.Data.PGSQL.PGSQLUserAccountData.m_log' is assigned but its value is never used
+	SQLiteUserProfilesData.cs(168,19): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `false'
+	SQLiteUserProfilesData.cs(169,17): warning CS0162: Unreachable code detected
+	SQLiteUserProfilesData.cs(489,22): warning CS0219: The variable `data' is assigned but its value is never used
+	SQLiteUserProfilesData.cs(787,22): warning CS0219: The variable `data' is assigned but its value is never used
+	LLClientView.cs(2880,17): warning CS0219: The variable `WearableOut' is assigned but its value is never used
+	LLClientView.cs(3398,25): warning CS0219: The variable `NewGroupDataMap' is assigned but its value is never used
+	LLClientView.cs(3992,56): warning CS0219: The variable `objectUpdates' is assigned but its value is never used
+	LLClientView.cs(3993,56): warning CS0219: The variable `compressedUpdates' is assigned but its value is never used
+	LLClientView.cs(3995,56): warning CS0219: The variable `terseAgentUpdates' is assigned but its value is never used
+	LLClientView.cs(8455,21): warning CS0219: The variable `wearableout' is assigned but its value is never used
+	LLClientView.cs(9559,13): warning CS0162: Unreachable code detected
+	LLUDPServer.cs(905,18): warning CS0219: The variable `packetQueued' is assigned but its value is never used
+	LLClientView.cs(102,32): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnStartAnim' is never used
+	LLClientView.cs(103,31): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnStopAnim' is never used
+	LLClientView.cs(134,35): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSinglePosition' is never used
+	LLClientView.cs(136,47): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSingleRotation' is never used
+	LLClientView.cs(137,55): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimSingleRotationPosition' is never used
+	LLClientView.cs(138,46): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimGroupMouseRotation' is never used
+	LLClientView.cs(139,35): warning CS0067: The event `OpenSim.Region.ClientStack.LindenUDP.LLClientView.OnUpdatePrimScale' is never used
+	LLClientView.cs(337,21): warning CS0169: The private field `OpenSim.Region.ClientStack.LindenUDP.LLClientView.m_cachedTextureSerial' is never used
+	LLClientView.cs(346,22): warning CS0414: The private field `OpenSim.Region.ClientStack.LindenUDP.LLClientView.m_VelocityInterpolate' is assigned but its value is never used
+	TokenBucket.cs(333,38): warning CS0414: The private field `OpenSim.Region.ClientStack.LindenUDP.AdaptiveTokenBucket.m_log' is assigned but its value is never used
+	BasicPhysicsScene.cs(166,19): warning CS0219: The variable `fps' is assigned but its value is never used
+	ZeroMesher.cs(56,38): warning CS0414: The private field `OpenSim.Region.PhysicsModule.Meshing.ZeroMesher.m_log' is assigned but its value is never used
+	ODEModule.cs(15,38): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ODE.OdeModule.m_log' is assigned but its value is never used
+	OdeScene.cs(259,24): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ODE.OdeScene.fluidRandomizer' is assigned but its value is never used
+	ODEMeshWorker.cs(278,29): warning CS0219: The variable `asr' is assigned but its value is never used
+	ODEMeshWorker.cs(440,29): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+	ODEMeshWorker.cs(863,25): warning CS0219: The variable `OBB' is assigned but its value is never used
+	ODEScene.cs(2811,20): warning CS0219: The variable `geom' is assigned but its value is never used
+	ODEDynamics.cs(70,28): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODEDynamics.m_RollreferenceFrame' is assigned but its value is never used
+	ODEDynamics.cs(82,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODEDynamics.m_BlockingEndPoint' is assigned but its value is never used
+	ODEPrim.cs(79,28): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastorientation' is assigned but its value is never used
+	ODEPrim.cs(84,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastVelocity' is assigned but its value is never used
+	ODEPrim.cs(85,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_lastposition' is assigned but its value is never used
+	ODEPrim.cs(127,22): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_collidesWater' is assigned but its value is never used
+	ODEPrim.cs(144,23): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_assetID' is assigned but its value is never used
+	ODEPrim.cs(179,22): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.OdePrim.m_hasOBB' is assigned but its value is never used
+	ODESitAvatar.cs(46,42): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODESitAvatar.m_raymanager' is assigned but its value is never used
+	ODESitAvatar.cs(54,32): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubOde.ODESitAvatar.SitAjust' is assigned but its value is never used
+	Mesh.cs(119,17): warning CS0472: The result of comparing value type `System.IntPtr' with null is always `false'
+	Mesh.cs(119,42): warning CS0472: The result of comparing value type `System.IntPtr' with null is always `false'
+	Mesh.cs(120,17): warning CS0162: Unreachable code detected
+	Meshmerizer.cs(1360,41): warning CS0219: The variable `bformatter' is assigned but its value is never used
+	PrimMesher.cs(1296,19): warning CS0219: The variable `length' is assigned but its value is never used
+	SculptMesh.cs(128,19): warning CS0219: The variable `widthUnit' is assigned but its value is never used
+	SculptMesh.cs(129,19): warning CS0219: The variable `heightUnit' is assigned but its value is never used
+	Meshmerizer.cs(76,23): warning CS0414: The private field `OpenSim.Region.PhysicsModule.ubODEMeshing.ubMeshmerizer.minSizeForComplexMesh' is assigned but its value is never used
+	Inventory/XInventoryServicesConnector.cs(595,41): warning CS0219: The variable `inventory' is assigned but its value is never used
+	Neighbour/NeighbourServicesConnector.cs(154,30): warning CS0168: The variable `e' is declared but never used
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Framework.Communications' not resolved
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Physics.Manager' not resolved
+	Hypergrid/GroupsServiceHGConnectorModule.cs(60,33): warning CS0414: The private field `OpenSim.Groups.GroupsServiceHGConnectorModule.m_ForeignImporter' is assigned but its value is never used
+	GetDisplayNames/GetDisplayNamesServerConnector.cs(65,20): warning CS0219: The variable `rurl' is assigned but its value is never used
+	GetMesh/GetMeshServerConnector.cs(65,20): warning CS0219: The variable `rurl' is assigned but its value is never used
+	FetchInventory/FetchInvDescHandler.cs(53,24): warning CS0414: The private field `OpenSim.Capabilities.Handlers.FetchInvDescHandler.m_Scene' is assigned but its value is never used
+	UploadBakedTexture/UploadBakedTextureHandler.cs(143,22): warning CS0414: The private field `OpenSim.Capabilities.Handlers.BakedTextureUploader.AgentId' is assigned but its value is never used
+	Avatar/Attachments/AttachmentsModule.cs(370,26): warning CS0168: The variable `asset' is declared but never used
+	Avatar/UserProfiles/UserProfileModule.cs(899,18): warning CS0219: The variable `foreign' is assigned but its value is never used
+	Avatar/UserProfiles/UserProfileModule.cs(923,18): warning CS0219: The variable `foreign' is assigned but its value is never used
+	Scripting/HttpRequest/ScriptsHttpRequests.cs(677,30): warning CS0168: The variable `e' is declared but never used
+	ServiceConnectorsOut/Grid/LocalGridServiceConnector.cs(300,39): warning CS0219: The variable `caps' is assigned but its value is never used
+	World/Archiver/ArchiveReadRequest.cs(729,21): warning CS0219: The variable `parcelDisp' is assigned but its value is never used
+	World/Estate/XEstateRequestHandler.cs(115,18): warning CS0219: The variable `PreyID' is assigned but its value is never used
+	World/Land/LandManagementModule.cs(835,13): warning CS0162: Unreachable code detected
+	World/Land/LandObject.cs(1365,17): warning CS0219: The variable `i' is assigned but its value is never used
+	World/Terrain/TerrainModule.cs(1104,39): warning CS0219: The variable `xPieces' is assigned but its value is never used
+	World/Terrain/TerrainModule.cs(1105,39): warning CS0219: The variable `yPieces' is assigned but its value is never used
+	World/Terrain/TerrainModule.cs(1181,23): warning CS0219: The variable `xPieces' is assigned but its value is never used
+	World/Terrain/TerrainModule.cs(1182,23): warning CS0219: The variable `yPieces' is assigned but its value is never used
+	World/Terrain/FileLoaders/Terragen.cs(68,17): warning CS0219: The variable `fileYPoints' is assigned but its value is never used
+	World/WorldMap/WorldMapModule.cs(874,18): warning CS0219: The variable `requestID' is assigned but its value is never used
+	Avatar/BakedTextures/XBakesModule.cs(53,30): warning CS0414: The private field `OpenSim.Region.CoreModules.Avatar.BakedTextures.XBakesModule.enc' is assigned but its value is never used
+	Framework/ServiceThrottle/ServiceThrottleModule.cs(47,38): warning CS0414: The private field `OpenSim.Region.CoreModules.Framework.ServiceThrottleModule.m_log' is assigned but its value is never used
+	World/Estate/XEstateModule.cs(50,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Estate.XEstateModule.m_log' is assigned but its value is never used
+	World/Objects/BuySell/BuySellModule.cs(48,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Objects.BuySell.BuySellModule.m_log' is assigned but its value is never used
+	World/Warp3DMap/Warp3DImageModule.cs(83,24): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Warp3DMap.Warp3DImageModule.lastImage' is assigned but its value is never used
+	World/Warp3DMap/Warp3DImageModule.cs(84,26): warning CS0414: The private field `OpenSim.Region.CoreModules.World.Warp3DMap.Warp3DImageModule.lastImageTime' is assigned but its value is never used
+	World/WorldMap/MapSearchModule.cs(45,38): warning CS0414: The private field `OpenSim.Region.CoreModules.World.WorldMap.MapSearchModule.m_log' is assigned but its value is never used
+	World/WorldMap/WorldMapModule.cs(80,36): warning CS0414: The private field `OpenSim.Region.CoreModules.World.WorldMap.WorldMapModule.cachedMapBlocks' is assigned but its value is never used
+	BSAPIXNA.cs(588,24): warning CS0219: The variable `frame2v' is assigned but its value is never used
+	BSAPIXNA.cs(1184,24): warning CS0219: The variable `world' is assigned but its value is never used
+	BSAPIXNA.cs(1194,35): warning CS0219: The variable `constructionInfo' is assigned but its value is never used
+	BSAPIXNA.cs(1383,42): warning CS0219: The variable `ccci' is assigned but its value is never used
+	BSAPIXNA.cs(1612,31): warning CS0219: The variable `world' is assigned but its value is never used
+	BSAPIXNA.cs(1633,31): warning CS0219: The variable `world' is assigned but its value is never used
+	BSAPIXNA.cs(1882,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+	BSAPIXNA.cs(1932,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+	BSAPIXNA.cs(1959,28): warning CS0219: The variable `frame2v' is assigned but its value is never used
+	BSAPIXNA.cs(2410,31): warning CS0219: The variable `world' is assigned but its value is never used
+	BSAPIXNA.cs(2454,40): warning CS0219: The variable `hitLocation' is assigned but its value is never used
+	BSScene.cs(1015,19): warning CS0219: The variable `pathTaperX' is assigned but its value is never used
+	BSScene.cs(1016,19): warning CS0219: The variable `pathTaperY' is assigned but its value is never used
+	BSScene.cs(1292,20): warning CS0219: The variable `xval' is assigned but its value is never used
+	BSCharacter.cs(43,18): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._grabbed' is assigned but its value is never used
+	BSCharacter.cs(60,19): warning CS0649: Field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._footOffset' is never assigned to, and will always have its default value `0'
+	BSCharacter.cs(65,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._PIDTarget' is assigned but its value is never used
+	BSCharacter.cs(66,19): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSCharacter._PIDTau' is assigned but its value is never used
+	BSConstraintCollection.cs(44,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSConstraintCollection.m_world' is assigned but its value is never used
+	BSDynamics.cs(77,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_linearMotorDirectionLASTSET' is assigned but its value is never used
+	BSDynamics.cs(81,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastLinearVelocityVector' is assigned but its value is never used
+	BSDynamics.cs(90,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_angularMotorVelocity' is assigned but its value is never used
+	BSDynamics.cs(94,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastAngularVelocity' is assigned but its value is never used
+	BSDynamics.cs(95,25): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_lastVertAttractor' is assigned but its value is never used
+	BSDynamics.cs(98,26): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_angularDeflectionMotor' is assigned but its value is never used
+	BSDynamics.cs(110,26): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSDynamics.m_hoverMotor' is assigned but its value is never used
+	BSPrim.cs(50,18): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSPrim._grabbed' is assigned but its value is never used
+	BSScene.cs(190,42): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSScene._postStepOperations' is assigned but its value is never used
+	BSShapes.cs(1393,27): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSShapeAvatar.avatarVertices' is assigned but its value is never used
+	BSShapes.cs(1433,19): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.BSShapeAvatar.avatarIndices' is assigned but its value is never used
+	FSAssetService.cs(223,32): warning CS0219: The variable `avg' is assigned but its value is never used
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Framework.Communications' not resolved
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Physics.Manager' not resolved
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Interfaces' not resolved
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Scenes' not resolved
+	BunchOfCaps/BunchOfCaps.cs(203,29): warning CS0472: The result of comparing value type `OpenMetaverse.UUID' with null is always `true'
+	BunchOfCaps/BunchOfCaps.cs(518,25): warning CS0162: Unreachable code detected
+	BunchOfCaps/BunchOfCaps.cs(1013,30): warning CS0219: The variable `hasmesh' is assigned but its value is never used
+	BunchOfCaps/MeshCost.cs(367,17): warning CS0219: The variable `skin_size' is assigned but its value is never used
+	GetMeshModule.cs(60,31): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_AssetService' is assigned but its value is never used
+	GetMeshModule.cs(65,24): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_RedirectURL' is assigned but its value is never used
+	GetMeshModule.cs(66,24): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.m_RedirectURL2' is assigned but its value is never used
+	GetMeshModule.cs(221,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.PollServiceMeshEventArgs.requests' is assigned but its value is never used
+	GetMeshModule.cs(393,27): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.CapThrottleDistributon' is assigned but its value is never used
+	GetMeshModule.cs(394,36): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.m_scene' is assigned but its value is never used
+	GetMeshModule.cs(396,35): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetMeshModule.MeshCapsDataThrottler.User' is assigned but its value is never used
+	GetTextureModule.cs(217,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.GetTextureModule.PollServiceTextureEventArgs.requests' is assigned but its value is never used
+	UploadBakedTextureModule.cs(57,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.UploadBakedTextureModule.m_log' is assigned but its value is never used
+	UploadBakedTextureModule.cs(68,37): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.UploadBakedTextureModule.m_BakedTextureModule' is assigned but its value is never used
+	BunchOfCaps/BunchOfCaps.cs(108,40): warning CS0414: The private field `OpenSim.Region.ClientStack.Linden.BunchOfCaps.m_animSetTaskUpdatePath' is assigned but its value is never used
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Interfaces' not resolved
+	/usr/lib/mono/4.5/Microsoft.Common.targets:  warning : Reference 'OpenSim.Region.Framework.Scenes' not resolved
+	Avatar/Concierge/ConciergeModule.cs(56,27): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.DEBUG_CHANNEL' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.DEBUG_CHANNEL'. Use the new keyword if hiding was intended
+	Avatar/Concierge/ConciergeModule.cs(58,30): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_scenes' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_scenes'. Use the new keyword if hiding was intended
+	Avatar/Concierge/ConciergeModule.cs(63,25): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_config' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_config'. Use the new keyword if hiding was intended
+	Avatar/Concierge/ConciergeModule.cs(75,25): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_syncy' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_syncy'. Use the new keyword if hiding was intended
+	Avatar/Concierge/ConciergeModule.cs(77,23): warning CS0108: `OpenSim.Region.OptionalModules.Avatar.Concierge.ConciergeModule.m_enabled' hides inherited member `OpenSim.Region.CoreModules.Avatar.Chat.ChatModule.m_enabled'. Use the new keyword if hiding was intended
+	Avatar/Voice/FreeSwitchVoice/FreeSwitchVoiceModule.cs(556,26): warning CS0219: The variable `encoding' is assigned but its value is never used
+	PrimLimitsModule/PrimLimitsModule.cs(171,17): warning CS0219: The variable `simulatorCapacity' is assigned but its value is never used
+	Scripting/JsonStore/JsonStoreScriptModule.cs(260,18): warning CS0219: The variable `uuid' is assigned but its value is never used
+	Scripting/Minimodule/MRMModule.cs(200,59): warning CS0612: `System.Security.SecurityManager.PolicyHierarchy()' is obsolete
+	ViewerSupport/SpecialUIModule.cs(149,36): warning CS0219: The variable `floater' is assigned but its value is never used
+	ViewerSupport/DynamicFloaterModule.cs(54,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.DynamicFloaterModule.m_log' is assigned but its value is never used
+	ViewerSupport/DynamicMenuModule.cs(55,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.DynamicMenuModule.m_log' is assigned but its value is never used
+	ViewerSupport/DynamicMenuModule.cs(272,38): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.MenuActionHandler.m_log' is assigned but its value is never used
+	ViewerSupport/DynamicMenuModule.cs(276,23): warning CS0414: The private field `OpenSim.Region.OptionalModules.ViewerSupport.MenuActionHandler.m_scene' is assigned but its value is never used
+	HGSuitcaseInventoryService.cs(402,38): warning CS0109: The member `OpenSim.Services.HypergridService.HGSuitcaseInventoryService.GetItem(OpenSim.Framework.InventoryItemBase)' does not hide an inherited member. The new keyword is not required
+	RemoteAdminPlugin.cs(1901,30): warning CS0168: The variable `e' is declared but never used
+	lsl.lexer.cs(19723,7): warning CS0162: Unreachable code detected
+	FetchInventory/Tests/FetchInventory2HandlerTests.cs(51,22): warning CS0414: The private field `OpenSim.Capabilities.Handlers.FetchInventory.Tests.FetchInventory2HandlerTests.m_rootFolderID' is assigned but its value is never used
+	UtilTest.cs(282,20): warning CS0219: The variable `hexBytes16' is assigned but its value is never used
+	Scenes/Tests/SceneObjectSerializationTests.cs(61,19): warning CS0219: The variable `scene' is assigned but its value is never used
+	Scenes/Tests/UuidGathererTests.cs(93,18): warning CS0219: The variable `ownerId' is assigned but its value is never used
+	BulletSimTestsUtil.cs(82,17): warning CS0219: The variable `regionExtent' is assigned but its value is never used
+	HullCreation.cs(178,39): warning CS0219: The variable `nShape' is assigned but its value is never used
+	HullCreation.cs(194,41): warning CS0219: The variable `cShape' is assigned but its value is never used
+	HullCreation.cs(52,13): warning CS0414: The private field `OpenSim.Region.PhysicsModule.BulletS.Tests.HullCreation.ObjectInitPosition' is assigned but its value is never used
+	ODETestClass.cs(61,21): warning CS0219: The variable `regionExtent' is assigned but its value is never used
+	LSL_Api.cs(3821,18): warning CS0219: The variable `friendTransactionID' is assigned but its value is never used
+	LSL_Api.cs(10273,20): warning CS0219: The variable `data1' is assigned but its value is never used
+	LSL_Api.cs(10274,20): warning CS0219: The variable `data2' is assigned but its value is never used
+	LSL_Api.cs(13993,37): warning CS0219: The variable `data' is assigned but its value is never used
+	ScriptInstance.cs(776,25): warning CS0219: The variable `data' is assigned but its value is never used
+	Shared/Tests/LSL_ApiHttpTests.cs(156,37): warning CS0168: The variable `e' is declared but never used
+	Shared/Tests/LSL_ApiUserTests.cs(97,27): warning CS0219: The variable `sp' is assigned but its value is never used
+	XEngine/Tests/XEngineCrossingTests.cs(189,35): warning CS0219: The variable `scriptItemSceneB' is assigned but its value is never used
+
+	 226 Warning(s)
+	 0 Error(s)
